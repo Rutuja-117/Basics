@@ -1,8 +1,4 @@
-/*  
-    Rutuja Navale
-    PRN:22070123118
-    Experiment no:2(a)
-*/
+
 #include <iostream>
 using namespace std;
 
